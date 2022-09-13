@@ -1,0 +1,3 @@
+EX001:MH-CET:Wadia College of Engineering:1, Jog Path, Pune, Camp 411001
+EX002:UPSC:Universiy of Pune, MBA center:Shivajinagar, Pune, 411006
+EX003:MPSC:S P College:Tilak Road, Pune, 411002
