@@ -1,2 +1,2 @@
-# CapG-Sprint-1-Project
-This repository is created to store the files of the work on Sprint 1 assessment which is mandated by Capgemini.
+# Sprint-1-Project
+Exam center assignment app made using C with a multi-file multi directory approach.
